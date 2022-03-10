@@ -1,0 +1,13 @@
+com/quinbay/LibraryManagement/controller/Controller.class
+com/quinbay/LibraryManagement/dto/UserBook.class
+com/quinbay/LibraryManagement/dto/User.class
+com/quinbay/LibraryManagement/LibraryManagementApplication.class
+com/quinbay/LibraryManagement/repository/UserRepository.class
+com/quinbay/LibraryManagement/repository/BookRepository.class
+com/quinbay/LibraryManagement/entity/UserBookEntity.class
+com/quinbay/LibraryManagement/entity/UserEntity.class
+com/quinbay/LibraryManagement/service/ServiceApi.class
+com/quinbay/LibraryManagement/service/ServiceApiImplementation.class
+com/quinbay/LibraryManagement/repository/UserBookRepository.class
+com/quinbay/LibraryManagement/entity/BookEntity.class
+com/quinbay/LibraryManagement/dto/Book.class
